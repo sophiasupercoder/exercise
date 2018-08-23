@@ -6,4 +6,5 @@ age= gets.to_i
         puts 'sweet sixteen'
     else age <=18
         puts 'sorry,you are too young'
+    
 end
